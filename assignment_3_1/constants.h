@@ -1,0 +1,12 @@
+//
+// Created by rivru on 13.02.2026.
+//
+
+#ifndef ASSIGNMENT_3_1_CONSTANTS_H
+#define ASSIGNMENT_3_1_CONSTANTS_H
+
+#define WINDOW_WIDTH 1500
+#define WINDOW_HEIGHT 1200
+#define WINNING_SCORE 3
+
+#endif //ASSIGNMENT_3_1_CONSTANTS_H
