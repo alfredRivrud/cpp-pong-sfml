@@ -1,2 +1,7 @@
 # cpp-pong-sfml
-Pong game in C++ with SFML
+Simple Pong game made in C++ using SFML.
+
+Features:
+- Player vs AI
+- Score system
+- Sound effects
